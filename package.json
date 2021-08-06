@@ -1,0 +1,46 @@
+{
+  "name": "@babble/random-nickname",
+  "version": "0.0.1",
+  "description": "[Korean] Random Nickname Generator - animals, heros, monsters, characters",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    {
+      "name": "Min Kyung Kang",
+      "email": "mnk918p@gmail.com",
+      "url": "https://ddongule.com"
+    },
+    {
+      "name": "An Hyun Cheol",
+      "email": "mlch8023@gmail.com",
+      "url": "https://iborymagic.tistory.com/"
+    }
+  ],
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woowa-babble/npm-random-nickname.git"
+  },
+  "keywords": [
+    "random",
+    "nickname",
+    "name",
+    "animals",
+    "heros",
+    "monsters",
+    "characters",
+    "game",
+    "cartoon",
+    "generator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woowa-babble/npm-random-nickname/issues"
+  },
+  "homepage": "https://github.com/woowa-babble/npm-random-nickname#readme"
+}
