@@ -1,6 +1,6 @@
 {
-  "name": "@babble/random-nickname",
-  "version": "1.0.0",
+  "name": "@woowa-babble/random-nickname",
+  "version": "1.0.1",
   "description": "[Korean] Random Nickname Generator - animals, heros, monsters, characters",
   "main": "src/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woowa-babble/npm-random-nickname.git"
+    "url": "https://github.com/woowa-babble/random-nickname.git"
   },
   "keywords": [
     "random",
@@ -40,7 +40,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/woowa-babble/npm-random-nickname/issues"
+    "url": "https://github.com/woowa-babble/random-nickname/issues"
   },
-  "homepage": "https://github.com/woowa-babble/npm-random-nickname#readme"
+  "homepage": "https://github.com/woowa-babble/random-nickname#readme"
 }
