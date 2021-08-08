@@ -1,6 +1,6 @@
 {
   "name": "@woowa-babble/random-nickname",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "[Korean] Random Nickname Generator - animals, heros, monsters, characters",
   "main": "src/index.js",
   "scripts": {
