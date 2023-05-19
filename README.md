@@ -17,9 +17,9 @@ A Library that makes fun random nicknames.
 ## Installation
 
 ```
-  npm install @babble/random-nickname
+  npm install @woowa-babble/random-nickname
 
-  yarn add @babble/random-nickname
+  yarn add @woowa-babble/random-nickname
 ```
 
 ## Introduction
