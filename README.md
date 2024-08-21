@@ -9,7 +9,7 @@ A Library that makes fun random nicknames.
   </div>
 </div>
 
-[🇺🇸 Read in English!]('https://github.com/woowa-babble/random-nickname/blob/master/README.en.md')
+[🇺🇸 Read in English!](https://github.com/woowa-babble/random-nickname/blob/master/README.en.md)
 
 - English version in progress
   <br />
